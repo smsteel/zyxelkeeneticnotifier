@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "es2018",
+    "sourceMap": true,
+    "allowJs": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "strict": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "noImplicitAny": false
+  },
+  "exclude": [
+    "node_modules",
+    "dist",
+    "webpack.config.babel.js"
+  ]
+}
