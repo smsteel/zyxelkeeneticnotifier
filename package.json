@@ -33,7 +33,7 @@
     "express": "^4.17.1",
     "moment": "^2.26.0",
     "node-notifier": "^7.0.1",
-    "node-windows": "^1.0.0-beta.1",
+    "node-windows": "^1.0.0-beta.6",
     "opn": "^6.0.0",
     "source-map-support": "^0.5.19",
     "syslog-server": "^1.0.1",
